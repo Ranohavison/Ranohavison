@@ -8,7 +8,7 @@
 
 Étudiant en **Génie Logiciel et Base de Données** à l'École Nationale de l'Informatique (ENI), je suis passionné par le développement full-stack et les nouvelles technologies. Je recherche activement un stage pour mettre en pratique mes compétences et contribuer à des projets innovants.
 
-**Âge :** 17 ans (né le 26 Avril 2007)  
+**Âge :** 18 ans (né le 26 Avril 2007)  
 **Localisation :** Antananarivo, Madagascar  
 **Portfolio :** [ranohavison.vercel.app](https://ranohavison.vercel.app)
 
@@ -37,28 +37,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Expériences Techniques
-
-### 📚 Application de Gestion de Bibliothèque
-**Technologies :** Qt, C++, MySQL  
-- Développement d'une application desktop moderne et intuitive
-- Gestion des auteurs, ouvrages, membres et utilisateurs
-- Système complet de suivi des prêts et retours
-
-### 👥 Application de Gestion des Employés
-**Technologies :** Laravel, VueJS, MySQL, TailwindCSS, DaisyUI  
-- Développement d'API RESTful sécurisées
-- Interface utilisateur responsive et moderne
-- Expérience utilisateur optimisée pour tous supports
-
-### 🎓 Application de Gestion des Résultats CEPE
-**Technologies :** CodeIgniter, Angular, MySQL, TailwindCSS  
-- Application web full-stack pour la gestion des examens
-- API REST sécurisées pour l'enregistrement et le traitement des données
-- Système automatisé de gestion des résultats
 
 ---
 
