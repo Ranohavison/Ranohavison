@@ -1,14 +1,14 @@
-# 👋 Bonjour, je suis RANOHAVISON Fortunah Mandresy
+# Bonjour, je suis RANOHAVISON Fortunah Mandresy
 
 **Développeur Full-Stack Junior** passionné par la création d'applications web modernes et performantes.
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Étudiant en **Génie Logiciel et Base de Données** à l'École Nationale de l'Informatique (ENI), je suis passionné par le développement full-stack et les nouvelles technologies. Je recherche activement un stage pour mettre en pratique mes compétences et contribuer à des projets innovants.
 
-**Âge :** 18 ans (né le 26 Avril 2007)  
+**Âge :** 19 ans (né le 26 Avril 2007)  
 **Localisation :** Antananarivo, Madagascar  
 **Portfolio :** [ranohavison.vercel.app](https://ranohavison.vercel.app)
 
@@ -18,18 +18,14 @@
 
 ### **Langages de Programmation**
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Frameworks & Bibliothèques**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### **Bases de Données & Outils**
@@ -40,16 +36,16 @@
 
 ---
 
-## 📊 Soft Skills
+## Soft Skills
 
-- 🔍 **Curiosité intellectuelle** - Toujours à la recherche de nouvelles technologies
-- 🔄 **Adaptabilité** - Capacité à m'adapter rapidement aux nouveaux environnements
-- 🤝 **Collaboration** - Excellente capacité à travailler en équipe
-- 💡 **Innovation** - Passion pour les solutions créatives et modernes
+- **Curiosité intellectuelle** - Toujours à la recherche de nouvelles technologies
+- **Adaptabilité** - Capacité à m'adapter rapidement aux nouveaux environnements
+- **Collaboration** - Excellente capacité à travailler en équipe
+- **Innovation** - Passion pour les solutions créatives et modernes
 
 ---
 
-## 🌐 Langues
+## Langues
 
 | Langue | Niveau |
 |--------|---------|
@@ -59,7 +55,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Téléphone :** +261 38 99 652 01
 - **Email :** [ranohavison399@gmail.com](mailto:ranohavison399@gmail.com)
@@ -68,18 +64,9 @@
 
 ---
 
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranohavison&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranohavison&layout=compact&theme=radical)
-
-*Note : Remplacez "VOTRE_NOM" par votre nom d'utilisateur GitHub*
-
----
-
 <div align="center">
 
-### 💡 **Innovant • Passionné • Déterminé**
+### **Innovant • Passionné • Déterminé**
 
 *Prêt à relever de nouveaux défis et à contribuer à des projets excitants !*
 
