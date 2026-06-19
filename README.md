@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Technologies & Compétences
+## Technologies & Compétences
 
 ### **Langages de Programmation**
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
